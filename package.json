@@ -1,0 +1,26 @@
+{
+  "name": "mjm-example",
+  "version": "1.0.0",
+  "description": "Responsive emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "mjml -w ./templates/**/*.mjml -o ./out/html/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4n13l-4lf4/mjm-example.git"
+  },
+  "keywords": [
+    "mjml"
+  ],
+  "author": "d4n13l.4lf4@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d4n13l-4lf4/mjm-example/issues"
+  },
+  "homepage": "https://github.com/d4n13l-4lf4/mjm-example#readme",
+  "dependencies": {
+    "mjml": "^4.15.3"
+  }
+}

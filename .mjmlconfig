@@ -1,0 +1,18 @@
+{
+  "mjmlVersion": "4.9.1",
+  "minify": true,
+  "beautify": false,
+  "validationLevel": "strict",
+  "fonts": {
+    "Roboto": {
+      "normal": "https://fonts.googleapis.com/css?family=Roboto:400",
+      "bold": "https://fonts.googleapis.com/css?family=Roboto:700"
+    }
+  },
+  "images": {
+    "default": "https://example.com/images/default.png"
+  },
+  "packages": [
+
+  ]
+}
